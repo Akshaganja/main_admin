@@ -1,0 +1,6 @@
+.bill-table-row:nth-child(odd) {
+  background: #ccc !important;
+}
+.bill-table-row:nth-child(even) {
+  background: #fff !important;
+}
